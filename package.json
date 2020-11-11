@@ -1,0 +1,19 @@
+{
+  "name": "entrometer",
+  "version": "1.0.0",
+  "description": "Assess the entropy level of a password by charset detection",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SOF3/entrometer.git"
+  },
+  "author": "SOFe",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SOF3/entrometer/issues"
+  },
+  "homepage": "https://github.com/SOF3/entrometer#readme"
+}
